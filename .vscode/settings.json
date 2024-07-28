@@ -1,0 +1,32 @@
+{
+  "workbench.colorTheme": "OM Theme (Default Dracula Italic)",
+  "[python]": {
+      
+      "diffEditor.ignoreTrimWhitespace": false,
+      "editor.formatOnType": true,
+      "editor.wordBasedSuggestions": "off"
+  },
+  "python.autoComplete.extraPaths": [
+
+  ],
+  "python.analysis.extraPaths": [],
+  "workbench.iconTheme": "material-icon-theme",
+  "[javascript]": {
+      "editor.defaultFormatter": "vscode.typescript-language-features"
+  },
+  "terminal.integrated.defaultProfile.windows": "Git Bash",
+  "[javascriptreact]": {
+      "editor.defaultFormatter": "vscode.typescript-language-features"
+  },
+  "editor.tabSize": 2,
+  "files.eol": "\n",
+  "workbench.startupEditor": "none",
+  "explorer.compactFolders": false,
+  "code-runner.runInTerminal": true, 
+  "code-runner.clearPreviousOutput": true,
+  "code-runner.executorMap": {
+      "python": "cls ; python -u",
+  },
+  "code-runner.ignoreSelection": true,
+  "python.defaultInterpreterPath": "python",
+}
